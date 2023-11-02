@@ -23,7 +23,7 @@ def brute_force_zip(zip_path, charset, max_length):
 
 if __name__ == '__main__':
     # Define the path to the ZIP file here
-    zip_path = 'D:\Downloads\protected.zip'
+    zip_path = 'path_to_the_zip_file'
 
     charset = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890~!@#$%^&*()_'
 
